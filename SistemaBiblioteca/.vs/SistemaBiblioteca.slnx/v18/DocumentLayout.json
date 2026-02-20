@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\SistemaBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90480215-5FAD-4795-8C8C-08C66EB761B7}|SistemaBiblioteca\\SistemaBiblioteca.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\sistemabiblioteca\\sistemabiblioteca\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90480215-5FAD-4795-8C8C-08C66EB761B7}|SistemaBiblioteca\\SistemaBiblioteca.csproj|solutionrelative:sistemabiblioteca\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90480215-5FAD-4795-8C8C-08C66EB761B7}|SistemaBiblioteca\\SistemaBiblioteca.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\sistemabiblioteca\\sistemabiblioteca\\librodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90480215-5FAD-4795-8C8C-08C66EB761B7}|SistemaBiblioteca\\SistemaBiblioteca.csproj|solutionrelative:sistemabiblioteca\\librodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90480215-5FAD-4795-8C8C-08C66EB761B7}|SistemaBiblioteca\\SistemaBiblioteca.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\sistemabiblioteca\\sistemabiblioteca\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90480215-5FAD-4795-8C8C-08C66EB761B7}|SistemaBiblioteca\\SistemaBiblioteca.csproj|solutionrelative:sistemabiblioteca\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90480215-5FAD-4795-8C8C-08C66EB761B7}|SistemaBiblioteca\\SistemaBiblioteca.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\sistemabiblioteca\\sistemabiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90480215-5FAD-4795-8C8C-08C66EB761B7}|SistemaBiblioteca\\SistemaBiblioteca.csproj|solutionrelative:sistemabiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90480215-5FAD-4795-8C8C-08C66EB761B7}|SistemaBiblioteca\\SistemaBiblioteca.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\sistemabiblioteca\\sistemabiblioteca\\librofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90480215-5FAD-4795-8C8C-08C66EB761B7}|SistemaBiblioteca\\SistemaBiblioteca.csproj|solutionrelative:sistemabiblioteca\\librofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\SistemaBiblioteca\\SistemaBiblioteca\\MaterialBiblioteca.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca\\MaterialBiblioteca.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\SistemaBiblioteca\\SistemaBiblioteca\\MaterialBiblioteca.cs",
+              "RelativeToolTip": "SistemaBiblioteca\\MaterialBiblioteca.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:27:26.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibroFisico.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\SistemaBiblioteca\\SistemaBiblioteca\\LibroFisico.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca\\LibroFisico.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\SistemaBiblioteca\\SistemaBiblioteca\\LibroFisico.cs",
+              "RelativeToolTip": "SistemaBiblioteca\\LibroFisico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:27:24.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibroDigital.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\SistemaBiblioteca\\SistemaBiblioteca\\LibroDigital.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca\\LibroDigital.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\SistemaBiblioteca\\SistemaBiblioteca\\LibroDigital.cs",
+              "RelativeToolTip": "SistemaBiblioteca\\LibroDigital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:27:18.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\SistemaBiblioteca\\SistemaBiblioteca\\Menu.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca\\Menu.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\SistemaBiblioteca\\SistemaBiblioteca\\Menu.cs",
+              "RelativeToolTip": "SistemaBiblioteca\\Menu.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAmwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:22:38.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\SistemaBiblioteca\\SistemaBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\SistemaBiblioteca\\SistemaBiblioteca\\Program.cs",
+              "RelativeToolTip": "SistemaBiblioteca\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:17:26.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
