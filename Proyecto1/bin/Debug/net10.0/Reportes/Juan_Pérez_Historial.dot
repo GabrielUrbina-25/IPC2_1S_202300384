@@ -1,0 +1,9 @@
+digraph Historial {
+    rankdir=TB;
+    node [shape=box, style=filled, fillcolor=lightblue];
+    label="Historial de Patrones - Juan Pérez";
+
+    P0 [label="Período 0\nContagiadas: 4", fillcolor=green];
+
+    // Ciclo detectado: N=0, N1=
+}

@@ -83,5 +83,21 @@ namespace Proyecto1.Modelos
             }
             return patron;
         }
+        public Rejilla Clonar()
+        {
+            Rejilla clon = new Rejilla(this.Tamaño);
+            clon.PeriodoActual = this.PeriodoActual;
+
+            for (int i = 0; i < Tamaño; i++)
+            {
+                for (int j = 0; j < Tamaño; j++)
+                {
+                    clon.EstablecerCelda(i, j, this.ObtenerCelda(i, j).EstaContagiada);
+                }
+            }
+
+            return clon;
+        }
     }
+
 }

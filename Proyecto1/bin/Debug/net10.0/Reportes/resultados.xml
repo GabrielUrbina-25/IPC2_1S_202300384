@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pacientes>
+  <paciente>
+    <datospersonales>
+      <nombre>Juan Pérez</nombre>
+      <edad>45</edad>
+    </datospersonales>
+    <periodos>5</periodos>
+    <m>10</m>
+    <resultado>grave</resultado>
+    <n>0</n>
+  </paciente>
+  <paciente>
+    <datospersonales>
+      <nombre>María García</nombre>
+      <edad>32</edad>
+    </datospersonales>
+    <periodos>10</periodos>
+    <m>10</m>
+    <resultado>pendiente</resultado>
+  </paciente>
+</pacientes>

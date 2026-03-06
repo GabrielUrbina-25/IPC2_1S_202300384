@@ -1,0 +1,21 @@
+========================================
+  REPORTE DE ANÁLISIS EPIDEMIOLÓGICO
+========================================
+
+PACIENTE #1
+  Nombre: Juan Pérez
+  Edad: 45
+  Tamaño de rejilla: 10x10
+  Períodos evaluados: 5
+  RESULTADO: GRAVE
+  N (Período de repetición): 0
+----------------------------------------
+PACIENTE #2
+  Nombre: María García
+  Edad: 32
+  Tamaño de rejilla: 10x10
+  Períodos evaluados: 10
+  RESULTADO: PENDIENTE
+----------------------------------------
+
+Fin del reporte

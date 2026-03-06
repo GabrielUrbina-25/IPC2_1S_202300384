@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\servicios\\xmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|solutionrelative:servicios\\xmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\modelos\\celda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|solutionrelative:modelos\\celda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\utilidades\\utilidadesconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:utilidades\\utilidadesconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\estructuradatos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|solutionrelative:estructuradatos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\modelos\\rejilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:modelos\\rejilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\estructuradatos\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|solutionrelative:estructuradatos\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\servicios\\generadorxmlsalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:servicios\\generadorxmlsalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\servicios\\graphvizgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:servicios\\graphvizgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\modelos\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|solutionrelative:modelos\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\servicios\\detectorpatrones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:servicios\\detectorpatrones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\modelos\\rejilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|solutionrelative:modelos\\rejilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\servicios\\simuladorepidemico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:servicios\\simuladorepidemico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\estructuradatos\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F12B3B-D828-4920-9BBF-B762C5585A31}|Proyecto1.csproj|solutionrelative:estructuradatos\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\modelos\\historialpatron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:modelos\\historialpatron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\servicios\\xmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:servicios\\xmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\modelos\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:modelos\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\modelos\\celda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:modelos\\celda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\estructuradatos\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:estructuradatos\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\estructuradatos\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:estructuradatos\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\proyecto1\\estructuradatos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EABBD8-0E08-4F94-097C-E49A7C354979}|Proyecto1.csproj|solutionrelative:estructuradatos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +74,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "GraphvizGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Servicios\\GraphvizGenerator.cs",
+              "RelativeDocumentMoniker": "Servicios\\GraphvizGenerator.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Servicios\\GraphvizGenerator.cs",
+              "RelativeToolTip": "Servicios\\GraphvizGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:06:36.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneradorXmlSalida.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Servicios\\GeneradorXmlSalida.cs",
+              "RelativeDocumentMoniker": "Servicios\\GeneradorXmlSalida.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Servicios\\GeneradorXmlSalida.cs",
+              "RelativeToolTip": "Servicios\\GeneradorXmlSalida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:06:18.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetectorPatrones.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Servicios\\DetectorPatrones.cs",
+              "RelativeDocumentMoniker": "Servicios\\DetectorPatrones.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Servicios\\DetectorPatrones.cs",
+              "RelativeToolTip": "Servicios\\DetectorPatrones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:05:57.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimuladorEpidemico.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Servicios\\SimuladorEpidemico.cs",
+              "RelativeDocumentMoniker": "Servicios\\SimuladorEpidemico.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Servicios\\SimuladorEpidemico.cs",
+              "RelativeToolTip": "Servicios\\SimuladorEpidemico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:05:41.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistorialPatron.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Modelos\\HistorialPatron.cs",
+              "RelativeDocumentMoniker": "Modelos\\HistorialPatron.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Modelos\\HistorialPatron.cs",
+              "RelativeToolTip": "Modelos\\HistorialPatron.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:04:26.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "XmlParser.cs",
               "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Servicios\\XmlParser.cs",
               "RelativeDocumentMoniker": "Servicios\\XmlParser.cs",
@@ -63,33 +152,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Modelos\\Paciente.cs",
-              "RelativeDocumentMoniker": "Modelos\\Paciente.cs",
-              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Modelos\\Paciente.cs",
-              "RelativeToolTip": "Modelos\\Paciente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T04:12:41.206Z",
+              "WhenOpened": "2026-03-05T04:07:47.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "UtilidadesConsola.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Utilidades\\UtilidadesConsola.cs",
+              "RelativeDocumentMoniker": "Utilidades\\UtilidadesConsola.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Utilidades\\UtilidadesConsola.cs",
+              "RelativeToolTip": "Utilidades\\UtilidadesConsola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:07:04.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Rejilla.cs",
               "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Modelos\\Rejilla.cs",
               "RelativeDocumentMoniker": "Modelos\\Rejilla.cs",
               "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Modelos\\Rejilla.cs",
               "RelativeToolTip": "Modelos\\Rejilla.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAmwFYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA3wFQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T04:12:30.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Celda.cs",
               "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Modelos\\Celda.cs",
               "RelativeDocumentMoniker": "Modelos\\Celda.cs",
@@ -97,12 +199,23 @@
               "RelativeToolTip": "Modelos\\Celda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T04:12:22.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T04:12:22.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Modelos\\Paciente.cs",
+              "RelativeDocumentMoniker": "Modelos\\Paciente.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Modelos\\Paciente.cs",
+              "RelativeToolTip": "Modelos\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:12:41.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Cola.cs",
               "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\EstructuraDatos\\Cola.cs",
               "RelativeDocumentMoniker": "EstructuraDatos\\Cola.cs",
@@ -110,12 +223,11 @@
               "RelativeToolTip": "EstructuraDatos\\Cola.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T04:12:05.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T04:12:05.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ListaEnlazada.cs",
               "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\EstructuraDatos\\ListaEnlazada.cs",
               "RelativeDocumentMoniker": "EstructuraDatos\\ListaEnlazada.cs",
@@ -123,12 +235,11 @@
               "RelativeToolTip": "EstructuraDatos\\ListaEnlazada.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAA8wA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T04:11:48.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T04:11:48.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Nodo.cs",
               "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\EstructuraDatos\\Nodo.cs",
               "RelativeDocumentMoniker": "EstructuraDatos\\Nodo.cs",
@@ -136,21 +247,7 @@
               "RelativeToolTip": "EstructuraDatos\\Nodo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T04:10:19.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\Proyecto1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T04:07:47.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T04:10:19.382Z"
             }
           ]
         }
