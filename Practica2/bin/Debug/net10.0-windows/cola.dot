@@ -1,0 +1,1 @@
+digraph G { rankdir=LR; node [shape=box];n0[label="Mariana\nDermatología"];n0 -> n1;n1[label="Susan\nGinecología"];n1 -> n2;n2[label="Luis\nPediatría"];}
