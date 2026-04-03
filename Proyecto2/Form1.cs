@@ -34,7 +34,8 @@ namespace Proyecto2
 
         private void btnGestionSistemas_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Gestión de Sistemas", "Próximamente");
+            FormSistemas form = new FormSistemas();
+            form.ShowDialog();
         }
 
         private void btnGestionMensajes_Click(object sender, EventArgs e)

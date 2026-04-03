@@ -17,3 +17,8 @@ C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0
 C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.pdb
 C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.genruntimeconfig.cache
 C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\ref\Proyecto2.dll
+C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormSistemas.resources
+C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormDetalleSistema.resources
+C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormVisualizadorGraphviz.resources
+C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormNuevoSistema.resources
+C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormConfigurarDron.resources
