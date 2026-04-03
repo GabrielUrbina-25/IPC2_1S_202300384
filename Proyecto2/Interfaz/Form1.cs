@@ -40,7 +40,8 @@ namespace Proyecto2
 
         private void btnGestionMensajes_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Gestión de Mensajes", "Próximamente");
+            FormMensajes form = new FormMensajes();
+            form.ShowDialog();
         }
 
         private void btnAyuda_Click(object sender, EventArgs e)

@@ -22,3 +22,8 @@ C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0
 C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormVisualizadorGraphviz.resources
 C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormNuevoSistema.resources
 C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormConfigurarDron.resources
+C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormDetalleMensaje.resources
+C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormInstruccionesMensaje.resources
+C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormCalculadoraTiempo.resources
+C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormNuevoMensaje.resources
+C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormMensajes.resources
