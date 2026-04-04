@@ -16,6 +16,12 @@
     <Compile Update="Interfaz\Form13.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Interfaz\Form14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\Form15.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Interfaz\Form2.cs">
       <SubType>Form</SubType>
     </Compile>

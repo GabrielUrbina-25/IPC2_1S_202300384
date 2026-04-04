@@ -1,3 +1,5 @@
+using Proyecto2.Interfaz;
+
 namespace Proyecto2
 {
     public partial class FormPrincipal : Form
@@ -14,8 +16,6 @@ namespace Proyecto2
 
         private void btnInicializar_Click(object sender, EventArgs e)
         {
-            // Limpiar todos los gestores (nueva sesión)
-            // Implementar método Reset en cada gestor si es necesario
             MessageBox.Show("Sistema inicializado correctamente.", "Éxito",
                 MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
@@ -56,9 +56,27 @@ namespace Proyecto2
                 "Acerca de", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
+        private void btnGenerarXML_Click(object sender, EventArgs e)
+        {
+            FormGenerarSalida form = new FormGenerarSalida();
+            form.ShowDialog();
+        }
+
+        private void btnReportes_Click(object sender, EventArgs e)
+        {
+            FormReporteCompleto form = new FormReporteCompleto();
+            form.ShowDialog();
+        }
+
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            DialogResult result = MessageBox.Show("¿Está seguro que desea salir del sistema?",
+                "Confirmar Salida", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            if (result == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
     }
 }

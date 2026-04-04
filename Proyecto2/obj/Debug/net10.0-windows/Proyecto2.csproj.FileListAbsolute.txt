@@ -27,3 +27,5 @@ C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0
 C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormCalculadoraTiempo.resources
 C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormNuevoMensaje.resources
 C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.FormMensajes.resources
+C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.Interfaz.FormGenerarSalida.resources
+C:\Users\gabsu\OneDrive\Documentos\IPC2_1S_202300384\Proyecto2\obj\Debug\net10.0-windows\Proyecto2.Interfaz.FormReporteCompleto.resources

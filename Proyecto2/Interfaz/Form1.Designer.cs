@@ -25,131 +25,176 @@
         /// </summary>
         private void InitializeComponent()
         {
+            lblTitulo = new Label();
             btnInicializar = new Button();
             btnCargarXML = new Button();
             btnGestionDrones = new Button();
             btnGestionSistemas = new Button();
             btnGestionMensajes = new Button();
+            btnGenerarXML = new Button();
+            btnReportes = new Button();
             btnAyuda = new Button();
             btnSalir = new Button();
-            lblTitulo = new Label();
             SuspendLayout();
+            // 
+            // lblTitulo
+            // 
+            lblTitulo.AutoSize = true;
+            lblTitulo.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Bold);
+            lblTitulo.Location = new Point(143, 32);
+            lblTitulo.Margin = new Padding(4, 0, 4, 0);
+            lblTitulo.Name = "lblTitulo";
+            lblTitulo.Size = new Size(215, 26);
+            lblTitulo.TabIndex = 0;
+            lblTitulo.Text = "Sistema de Drones";
+            lblTitulo.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // btnInicializar
             // 
-            btnInicializar.Location = new Point(117, 81);
+            btnInicializar.Font = new Font("Microsoft Sans Serif", 10F);
+            btnInicializar.Location = new Point(117, 92);
             btnInicializar.Margin = new Padding(4, 3, 4, 3);
             btnInicializar.Name = "btnInicializar";
-            btnInicializar.Size = new Size(233, 46);
-            btnInicializar.TabIndex = 1;
+            btnInicializar.Size = new Size(257, 46);
+            btnInicializar.TabIndex = 2;
             btnInicializar.Text = "Inicializar Sistema";
             btnInicializar.UseVisualStyleBackColor = true;
             btnInicializar.Click += btnInicializar_Click;
             // 
             // btnCargarXML
             // 
-            btnCargarXML.Location = new Point(117, 138);
+            btnCargarXML.Font = new Font("Microsoft Sans Serif", 10F);
+            btnCargarXML.Location = new Point(117, 150);
             btnCargarXML.Margin = new Padding(4, 3, 4, 3);
             btnCargarXML.Name = "btnCargarXML";
-            btnCargarXML.Size = new Size(233, 46);
-            btnCargarXML.TabIndex = 2;
-            btnCargarXML.Text = "Cargar Archivo XML";
+            btnCargarXML.Size = new Size(257, 46);
+            btnCargarXML.TabIndex = 3;
+            btnCargarXML.Text = "Cargar Archivo XML de Entrada";
             btnCargarXML.UseVisualStyleBackColor = true;
             btnCargarXML.Click += btnCargarXML_Click;
             // 
             // btnGestionDrones
             // 
-            btnGestionDrones.Location = new Point(117, 196);
+            btnGestionDrones.Font = new Font("Microsoft Sans Serif", 10F);
+            btnGestionDrones.Location = new Point(117, 208);
             btnGestionDrones.Margin = new Padding(4, 3, 4, 3);
             btnGestionDrones.Name = "btnGestionDrones";
-            btnGestionDrones.Size = new Size(233, 46);
-            btnGestionDrones.TabIndex = 3;
+            btnGestionDrones.Size = new Size(257, 46);
+            btnGestionDrones.TabIndex = 4;
             btnGestionDrones.Text = "Gestión de Drones";
             btnGestionDrones.UseVisualStyleBackColor = true;
             btnGestionDrones.Click += btnGestionDrones_Click;
             // 
             // btnGestionSistemas
             // 
-            btnGestionSistemas.Location = new Point(117, 254);
+            btnGestionSistemas.Font = new Font("Microsoft Sans Serif", 10F);
+            btnGestionSistemas.Location = new Point(117, 265);
             btnGestionSistemas.Margin = new Padding(4, 3, 4, 3);
             btnGestionSistemas.Name = "btnGestionSistemas";
-            btnGestionSistemas.Size = new Size(233, 46);
-            btnGestionSistemas.TabIndex = 4;
-            btnGestionSistemas.Text = "Gestión de Sistemas (Fase 2)";
+            btnGestionSistemas.Size = new Size(257, 46);
+            btnGestionSistemas.TabIndex = 5;
+            btnGestionSistemas.Text = "Gestión de Sistemas de Drones";
             btnGestionSistemas.UseVisualStyleBackColor = true;
             btnGestionSistemas.Click += btnGestionSistemas_Click;
             // 
             // btnGestionMensajes
             // 
-            btnGestionMensajes.Location = new Point(117, 312);
+            btnGestionMensajes.Font = new Font("Microsoft Sans Serif", 10F);
+            btnGestionMensajes.Location = new Point(117, 323);
             btnGestionMensajes.Margin = new Padding(4, 3, 4, 3);
             btnGestionMensajes.Name = "btnGestionMensajes";
-            btnGestionMensajes.Size = new Size(233, 46);
-            btnGestionMensajes.TabIndex = 5;
-            btnGestionMensajes.Text = "Gestión de Mensajes (Fase 2)";
+            btnGestionMensajes.Size = new Size(257, 46);
+            btnGestionMensajes.TabIndex = 6;
+            btnGestionMensajes.Text = "Gestión de Mensajes";
             btnGestionMensajes.UseVisualStyleBackColor = true;
             btnGestionMensajes.Click += btnGestionMensajes_Click;
             // 
+            // btnGenerarXML
+            // 
+            btnGenerarXML.Font = new Font("Microsoft Sans Serif", 10F);
+            btnGenerarXML.ForeColor = Color.DarkGreen;
+            btnGenerarXML.Location = new Point(117, 381);
+            btnGenerarXML.Margin = new Padding(4, 3, 4, 3);
+            btnGenerarXML.Name = "btnGenerarXML";
+            btnGenerarXML.Size = new Size(257, 46);
+            btnGenerarXML.TabIndex = 7;
+            btnGenerarXML.Text = "Generar Archivo XML de Salida";
+            btnGenerarXML.UseVisualStyleBackColor = true;
+            btnGenerarXML.Click += btnGenerarXML_Click;
+            // 
+            // btnReportes
+            // 
+            btnReportes.Font = new Font("Microsoft Sans Serif", 10F);
+            btnReportes.Location = new Point(117, 438);
+            btnReportes.Margin = new Padding(4, 3, 4, 3);
+            btnReportes.Name = "btnReportes";
+            btnReportes.Size = new Size(257, 46);
+            btnReportes.TabIndex = 8;
+            btnReportes.Text = "Reportes Consolidados";
+            btnReportes.UseVisualStyleBackColor = true;
+            btnReportes.Click += btnReportes_Click;
+            // 
             // btnAyuda
             // 
-            btnAyuda.Location = new Point(117, 369);
+            btnAyuda.Font = new Font("Microsoft Sans Serif", 10F);
+            btnAyuda.Location = new Point(117, 496);
             btnAyuda.Margin = new Padding(4, 3, 4, 3);
             btnAyuda.Name = "btnAyuda";
-            btnAyuda.Size = new Size(233, 46);
-            btnAyuda.TabIndex = 6;
-            btnAyuda.Text = "Ayuda";
+            btnAyuda.Size = new Size(257, 46);
+            btnAyuda.TabIndex = 9;
+            btnAyuda.Text = "Ayuda / Acerca de";
             btnAyuda.UseVisualStyleBackColor = true;
             btnAyuda.Click += btnAyuda_Click;
             // 
             // btnSalir
             // 
-            btnSalir.Location = new Point(117, 438);
+            btnSalir.BackColor = Color.LightCoral;
+            btnSalir.Font = new Font("Microsoft Sans Serif", 10F, FontStyle.Bold);
+            btnSalir.Location = new Point(117, 565);
             btnSalir.Margin = new Padding(4, 3, 4, 3);
             btnSalir.Name = "btnSalir";
-            btnSalir.Size = new Size(233, 46);
-            btnSalir.TabIndex = 7;
-            btnSalir.Text = "Salir";
-            btnSalir.UseVisualStyleBackColor = true;
+            btnSalir.Size = new Size(257, 52);
+            btnSalir.TabIndex = 10;
+            btnSalir.Text = "SALIR";
+            btnSalir.UseVisualStyleBackColor = false;
             btnSalir.Click += btnSalir_Click;
-            // 
-            // lblTitulo
-            // 
-            lblTitulo.AutoSize = true;
-            lblTitulo.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Bold);
-            lblTitulo.Location = new Point(126, 29);
-            lblTitulo.Margin = new Padding(4, 0, 4, 0);
-            lblTitulo.Name = "lblTitulo";
-            lblTitulo.Size = new Size(215, 26);
-            lblTitulo.TabIndex = 0;
-            lblTitulo.Text = "Sistema de Drones";
             // 
             // FormPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(467, 519);
+            BackColor = Color.LightSteelBlue;
+            ClientSize = new Size(490, 646);
             Controls.Add(btnSalir);
             Controls.Add(btnAyuda);
+            Controls.Add(btnReportes);
+            Controls.Add(btnGenerarXML);
             Controls.Add(btnGestionMensajes);
             Controls.Add(btnGestionSistemas);
             Controls.Add(btnGestionDrones);
             Controls.Add(btnCargarXML);
             Controls.Add(btnInicializar);
             Controls.Add(lblTitulo);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Margin = new Padding(4, 3, 4, 3);
+            MaximizeBox = false;
             Name = "FormPrincipal";
-            Text = "Proyecto 2 - IPC2";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Proyecto 2 - IPC2 - Sistema de Drones";
             ResumeLayout(false);
             PerformLayout();
         }
 
+        private System.Windows.Forms.Label lblTitulo;
         private System.Windows.Forms.Button btnInicializar;
         private System.Windows.Forms.Button btnCargarXML;
         private System.Windows.Forms.Button btnGestionDrones;
         private System.Windows.Forms.Button btnGestionSistemas;
         private System.Windows.Forms.Button btnGestionMensajes;
+        private System.Windows.Forms.Button btnGenerarXML;
+        private System.Windows.Forms.Button btnReportes;
         private System.Windows.Forms.Button btnAyuda;
         private System.Windows.Forms.Button btnSalir;
-        private System.Windows.Forms.Label lblTitulo;
+
     }
 }
