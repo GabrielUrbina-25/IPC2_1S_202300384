@@ -6,33 +6,41 @@
 
 <div class="text-center mb-4">
     <h1>ITGSA - Tienda Virtual</h1>
-    <p class="text-muted">Fase 1: Carga de configuración y transacciones</p>
+    <p class="text-muted">Fase 2: Abono de pagos y Estado de Cuenta</p>
 </div>
 
-<div class="row">
-    <div class="col-md-4">
-        <div class="card">
+<div class="row g-3">
+    <div class="col-md-3">
+        <div class="card h-100">
             <div class="card-body">
-                <h5 class="card-title">🔴 Resetear Datos</h5>
+                <h5 class="card-title">🔴 Resetear</h5>
                 <form method="post" asp-page-handler="Reset">
                     <button class="btn btn-danger w-100">Limpiar sistema</button>
                 </form>
             </div>
         </div>
     </div>
-    <div class="col-md-4">
-        <div class="card">
+    <div class="col-md-3">
+        <div class="card h-100">
             <div class="card-body">
                 <h5 class="card-title">⚙️ Configuración</h5>
-                <a href="/Configuracion" class="btn btn-primary w-100">Cargar clientes/bancos</a>
+                <a href="/Configuracion" class="btn btn-primary w-100">Clientes / Bancos</a>
             </div>
         </div>
     </div>
-    <div class="col-md-4">
-        <div class="card">
+    <div class="col-md-3">
+        <div class="card h-100">
             <div class="card-body">
                 <h5 class="card-title">💵 Transacciones</h5>
-                <a href="/Transacciones" class="btn btn-success w-100">Cargar facturas/pagos</a>
+                <a href="/Transacciones" class="btn btn-success w-100">Facturas / Pagos</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">📋 Estado de Cuenta</h5>
+                <a href="/EstadoCuenta" class="btn btn-info w-100 text-white">Consultar</a>
             </div>
         </div>
     </div>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITGSA_Frontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98371c12738e67aeae4b676def5532551ee0fbd7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4e0e19013073b6c485664330851f6a5be8a1472")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITGSA_Frontend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITGSA_Frontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

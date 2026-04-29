@@ -40,6 +40,57 @@
           }
         }
       }
+    },
+    "/api/itgsa/devolverEstadoCuenta": {
+      "get": {
+        "tags": [
+          "ITGSA"
+        ],
+        "parameters": [
+          {
+            "name": "nit",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/itgsa/devolverResumenPagos": {
+      "get": {
+        "tags": [
+          "ITGSA"
+        ],
+        "parameters": [
+          {
+            "name": "mes",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "anio",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": { },

@@ -1,6 +1,43 @@
 [
   {
     "ContainingType": "ITGSA_Backend.Controllers.ITGSAController",
+    "Method": "DevolverEstadoCuenta",
+    "RelativePath": "api/itgsa/devolverEstadoCuenta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nit",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ITGSA_Backend.Controllers.ITGSAController",
+    "Method": "DevolverResumenPagos",
+    "RelativePath": "api/itgsa/devolverResumenPagos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mes",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "anio",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ITGSA_Backend.Controllers.ITGSAController",
     "Method": "GrabarConfiguracion",
     "RelativePath": "api/itgsa/grabarConfiguracion",
     "HttpMethod": "POST",

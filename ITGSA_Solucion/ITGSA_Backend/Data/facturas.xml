@@ -4,7 +4,7 @@
     <numeroFactura>F001</numeroFactura>
     <NITcliente>399399-K</NITcliente>
     <fecha>28/03/2024</fecha>
-    <valor>300</valor>
-    <saldoPendiente>300</saldoPendiente>
+    <valor>300.00</valor>
+    <saldoPendiente>150.00</saldoPendiente>
   </factura>
 </facturas>

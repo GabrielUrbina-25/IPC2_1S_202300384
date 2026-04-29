@@ -1,0 +1,50 @@
+﻿@page
+@model EstadoCuentaModel
+@{
+    ViewData["Title"] = "Estado de Cuenta";
+}
+
+<h2>Consultar Estado de Cuenta</h2>
+
+<form method="post">
+    <div class="input-group mb-3">
+        <input asp-for="NIT" class="form-control" placeholder="Ingrese NIT (vacío = todos)" />
+        <button type="submit" class="btn btn-primary">Consultar</button>
+    </div>
+</form>
+
+@if (Model.Clientes.Count > 0)
+{
+    @foreach (var c in Model.Clientes)
+    {
+        <div class="card mb-4">
+            <div class="card-header bg-dark text-white">
+                <strong>Cliente:</strong> @c.NIT – @c.Nombre
+            </div>
+            <div class="card-body">
+                <p><strong>Saldo actual:</strong> Q.@c.SaldoActual</p>
+                <table class="table table-sm table-bordered">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Fecha</th>
+                            <th>Cargo</th>
+                            <th>Abono</th>
+                            <th>Referencia</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var t in c.Transacciones)
+                        {
+                            <tr>
+                                <td>@t.Fecha</td>
+                                <td>@(t.Cargo > 0 ? $"Q.{t.Cargo:F2}" : "-")</td>
+                                <td>@(t.Abono > 0 ? $"Q.{t.Abono:F2}" : "-")</td>
+                                <td>@t.Referencia</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    }
+}

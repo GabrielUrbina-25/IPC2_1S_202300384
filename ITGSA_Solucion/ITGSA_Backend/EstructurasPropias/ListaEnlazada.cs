@@ -52,6 +52,28 @@ public class ListaEnlazada<T>
             actual = actual.Siguiente;
         }
     }
+    public void Ordenar(Comparison<T> comparador)
+    {
+        if (_cabeza == null || _cabeza.Siguiente == null) return;
+
+        bool intercambio;
+        do
+        {
+            intercambio = false;
+            Nodo<T> actual = _cabeza;
+            while (actual.Siguiente != null)
+            {
+                if (comparador(actual.Dato, actual.Siguiente.Dato) > 0)
+                {
+                    T temp = actual.Dato;
+                    actual.Dato = actual.Siguiente.Dato;
+                    actual.Siguiente.Dato = temp;
+                    intercambio = true;
+                }
+                actual = actual.Siguiente;
+            }
+        } while (intercambio);
+    }
 
     public void Limpiar()
     {

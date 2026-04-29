@@ -3,11 +3,11 @@
   <cliente>
     <NIT>399399-K</NIT>
     <nombre>Almacén Guatemalteco</nombre>
-    <saldoFavor>0</saldoFavor>
+    <saldoFavor>0.00</saldoFavor>
   </cliente>
   <cliente>
     <NIT>123456-1</NIT>
     <nombre>Cliente Prueba</nombre>
-    <saldoFavor>0</saldoFavor>
+    <saldoFavor>0.00</saldoFavor>
   </cliente>
 </clientes>

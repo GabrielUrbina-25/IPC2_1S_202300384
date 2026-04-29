@@ -69,4 +69,18 @@ public class ITGSAController : ControllerBase
             return BadRequest(new XDocument(new XElement("error", ex.Message)).ToString());
         }
     }
+
+    [HttpGet("devolverEstadoCuenta")]
+    public IActionResult DevolverEstadoCuenta([FromQuery] string nit)
+    {
+        var doc = _ds.ObtenerEstadoCuenta(nit ?? "");
+        return Content(doc.ToString(), "application/xml");
+    }
+
+    [HttpGet("devolverResumenPagos")]
+    public IActionResult DevolverResumenPagos([FromQuery] int mes, [FromQuery] int anio)
+    {
+        var doc = _ds.ObtenerResumenPagos(mes, anio);
+        return Content(doc.ToString(), "application/xml");
+    }
 }
