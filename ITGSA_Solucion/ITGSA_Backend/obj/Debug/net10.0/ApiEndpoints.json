@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "ITGSA_Backend.Controllers.ITGSAController",
+    "Method": "GrabarConfiguracion",
+    "RelativePath": "api/itgsa/grabarConfiguracion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ITGSA_Backend.Controllers.ITGSAController",
+    "Method": "GrabarTransaccion",
+    "RelativePath": "api/itgsa/grabarTransaccion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ITGSA_Backend.Controllers.ITGSAController",
+    "Method": "LimpiarDatos",
+    "RelativePath": "api/itgsa/limpiarDatos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

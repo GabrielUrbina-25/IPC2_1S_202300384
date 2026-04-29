@@ -1,0 +1,51 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "ITGSA_Backend",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/itgsa/limpiarDatos": {
+      "post": {
+        "tags": [
+          "ITGSA"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/itgsa/grabarConfiguracion": {
+      "post": {
+        "tags": [
+          "ITGSA"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/itgsa/grabarTransaccion": {
+      "post": {
+        "tags": [
+          "ITGSA"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { },
+  "tags": [
+    {
+      "name": "ITGSA"
+    }
+  ]
+}

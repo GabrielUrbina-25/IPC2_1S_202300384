@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bancos>
+  <banco>
+    <codigo>1</codigo>
+    <nombre>BI</nombre>
+  </banco>
+  <banco>
+    <codigo>2</codigo>
+    <nombre>GyT</nombre>
+  </banco>
+</bancos>

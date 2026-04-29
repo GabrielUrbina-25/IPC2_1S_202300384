@@ -1,0 +1,16 @@
+﻿@page
+@model ConfiguracionModel
+@{
+    ViewData["Title"] = "Configuración";
+}
+
+<h2>Cargar config.xml</h2>
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="Archivo" class="form-control" type="file" accept=".xml" />
+    <button type="submit" class="btn btn-primary mt-3">Procesar</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Respuesta))
+{
+    <div class="alert alert-success mt-4"><h5>Respuesta XML:</h5><pre>@Model.Respuesta</pre></div>
+}

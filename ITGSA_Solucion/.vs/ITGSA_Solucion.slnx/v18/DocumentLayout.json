@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{890003B0-506E-48C5-B247-84C59EEB4DE9}|ITGSA_Backend\\ITGSA_Backend.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\itgsa_solucion\\itgsa_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{890003B0-506E-48C5-B247-84C59EEB4DE9}|ITGSA_Backend\\ITGSA_Backend.csproj|solutionrelative:itgsa_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3CFC0C-28CA-40DF-9E26-30EB4C1E624B}|ITGSA_Frontend\\ITGSA_Frontend.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\itgsa_solucion\\itgsa_frontend\\services\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3CFC0C-28CA-40DF-9E26-30EB4C1E624B}|ITGSA_Frontend\\ITGSA_Frontend.csproj|solutionrelative:itgsa_frontend\\services\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ITGSA_Backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ITGSA_Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T00:08:34.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiServices.cs",
+              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Services\\ApiServices.cs",
+              "RelativeDocumentMoniker": "ITGSA_Frontend\\Services\\ApiServices.cs",
+              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Services\\ApiServices.cs",
+              "RelativeToolTip": "ITGSA_Frontend\\Services\\ApiServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T00:08:18.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

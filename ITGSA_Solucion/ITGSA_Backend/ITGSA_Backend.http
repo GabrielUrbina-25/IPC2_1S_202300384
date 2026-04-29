@@ -1,0 +1,6 @@
+@ITGSA_Backend_HostAddress = http://localhost:5228
+
+GET {{ITGSA_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

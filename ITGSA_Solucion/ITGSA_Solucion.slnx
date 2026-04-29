@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ITGSA_Backend/ITGSA_Backend.csproj" />
+  <Project Path="ITGSA_Frontend/ITGSA_Frontend.csproj" />
+</Solution>

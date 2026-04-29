@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<facturas>
+  <factura>
+    <numeroFactura>F001</numeroFactura>
+    <NITcliente>399399-K</NITcliente>
+    <fecha>28/03/2024</fecha>
+    <valor>300</valor>
+    <saldoPendiente>300</saldoPendiente>
+  </factura>
+</facturas>

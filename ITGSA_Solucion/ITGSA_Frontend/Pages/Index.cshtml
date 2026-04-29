@@ -1,0 +1,44 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="text-center mb-4">
+    <h1>ITGSA - Tienda Virtual</h1>
+    <p class="text-muted">Fase 1: Carga de configuración y transacciones</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">🔴 Resetear Datos</h5>
+                <form method="post" asp-page-handler="Reset">
+                    <button class="btn btn-danger w-100">Limpiar sistema</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">⚙️ Configuración</h5>
+                <a href="/Configuracion" class="btn btn-primary w-100">Cargar clientes/bancos</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">💵 Transacciones</h5>
+                <a href="/Transacciones" class="btn btn-success w-100">Cargar facturas/pagos</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (!string.IsNullOrEmpty(Model.Mensaje))
+{
+    <div class="alert alert-info mt-4"><pre>@Model.Mensaje</pre></div>
+}
