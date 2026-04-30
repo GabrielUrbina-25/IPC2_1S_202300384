@@ -12,7 +12,7 @@ var app = builder.Build();
 app.UseSwagger();
 app.UseSwaggerUI();
 
-app.UseRouting();        // ← ESTA LÍNEA FALTABA
+app.UseRouting();
 app.UseCors("All");
 
 app.UseAuthorization();

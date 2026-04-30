@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\itgsa_solucion\\itgsa_frontend\\pages\\estadocuenta.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|solutionrelative:itgsa_frontend\\pages\\estadocuenta.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\itgsa_solucion\\itgsa_frontend\\pages\\estadocuenta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|solutionrelative:itgsa_frontend\\pages\\estadocuenta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59470A1D-4E89-59B3-2150-AB6A89ACF4E2}|ITGSA_Backend\\ITGSA_Backend.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\itgsa_solucion\\itgsa_backend\\services\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59470A1D-4E89-59B3-2150-AB6A89ACF4E2}|ITGSA_Backend\\ITGSA_Backend.csproj|solutionrelative:itgsa_backend\\services\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\itgsa_solucion\\itgsa_frontend\\pages\\ingresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|solutionrelative:itgsa_frontend\\pages\\ingresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\itgsa_solucion\\itgsa_frontend\\pages\\ingresos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|solutionrelative:itgsa_frontend\\pages\\ingresos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\itgsa_solucion\\itgsa_frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|solutionrelative:itgsa_frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\itgsa_solucion\\itgsa_frontend\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|solutionrelative:itgsa_frontend\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|c:\\users\\gabsu\\onedrive\\documentos\\ipc2_1s_202300384\\itgsa_solucion\\itgsa_frontend\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7391B49-A5B6-8350-A40F-BCF7AC115D9E}|ITGSA_Frontend\\ITGSA_Frontend.csproj|solutionrelative:itgsa_frontend\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,115 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataServices.cs",
-              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Backend\\Services\\DataServices.cs",
-              "RelativeDocumentMoniker": "ITGSA_Backend\\Services\\DataServices.cs",
-              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Backend\\Services\\DataServices.cs",
-              "RelativeToolTip": "ITGSA_Backend\\Services\\DataServices.cs",
-              "ViewState": "AgIAACwBAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T04:06:52.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Program.cs",
-              "RelativeDocumentMoniker": "ITGSA_Frontend\\Program.cs",
-              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Program.cs",
-              "RelativeToolTip": "ITGSA_Frontend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T03:57:18.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ITGSA_Frontend\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ITGSA_Frontend\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-29T03:56:55.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "ITGSA_Frontend\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Pages\\Index.cshtml",
-              "RelativeToolTip": "ITGSA_Frontend\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-29T03:56:22.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ingresos.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Pages\\Ingresos.cshtml.cs",
-              "RelativeDocumentMoniker": "ITGSA_Frontend\\Pages\\Ingresos.cshtml.cs",
-              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Pages\\Ingresos.cshtml.cs",
-              "RelativeToolTip": "ITGSA_Frontend\\Pages\\Ingresos.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T03:54:52.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ingresos.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Pages\\Ingresos.cshtml",
-              "RelativeDocumentMoniker": "ITGSA_Frontend\\Pages\\Ingresos.cshtml",
-              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Pages\\Ingresos.cshtml",
-              "RelativeToolTip": "ITGSA_Frontend\\Pages\\Ingresos.cshtml",
-              "ViewState": "AgIAAFMAAAAAAAAAAADwv24AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-29T03:54:40.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EstadoCuenta.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Pages\\EstadoCuenta.cshtml.cs",
-              "RelativeDocumentMoniker": "ITGSA_Frontend\\Pages\\EstadoCuenta.cshtml.cs",
-              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Pages\\EstadoCuenta.cshtml.cs",
-              "RelativeToolTip": "ITGSA_Frontend\\Pages\\EstadoCuenta.cshtml.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAcwHIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T04:08:44.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EstadoCuenta.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Pages\\EstadoCuenta.cshtml",
-              "RelativeDocumentMoniker": "ITGSA_Frontend\\Pages\\EstadoCuenta.cshtml",
-              "ToolTip": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\Pages\\EstadoCuenta.cshtml",
-              "RelativeToolTip": "ITGSA_Frontend\\Pages\\EstadoCuenta.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-29T04:08:29.251Z",
-              "EditorCaption": ""
             }
           ]
         }
