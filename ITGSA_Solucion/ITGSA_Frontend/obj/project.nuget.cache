@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tM36eIDC1Ss=",
+  "dgSpecHash": "5SoCpUhW+NE=",
   "success": true,
   "projectFilePath": "C:\\Users\\gabsu\\OneDrive\\Documentos\\IPC2_1S_202300384\\ITGSA_Solucion\\ITGSA_Frontend\\ITGSA_Frontend.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gabsu\\.nuget\\packages\\questpdf\\2026.2.4\\questpdf.2026.2.4.nupkg.sha512",
+    "C:\\Users\\gabsu\\.nuget\\packages\\skiasharp\\3.119.2\\skiasharp.3.119.2.nupkg.sha512",
+    "C:\\Users\\gabsu\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.2\\skiasharp.nativeassets.macos.3.119.2.nupkg.sha512",
+    "C:\\Users\\gabsu\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.2\\skiasharp.nativeassets.win32.3.119.2.nupkg.sha512"
+  ],
   "logs": []
 }

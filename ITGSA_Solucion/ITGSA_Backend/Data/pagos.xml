@@ -2,8 +2,44 @@
 <pagos>
   <pago>
     <codigoBanco>1</codigoBanco>
-    <fecha>31/03/2024</fecha>
+    <fecha>20/03/2024</fecha>
     <NITcliente>399399-K</NITcliente>
-    <valor>150.00</valor>
+    <valor>4300.00</valor>
+  </pago>
+  <pago>
+    <codigoBanco>2</codigoBanco>
+    <fecha>22/03/2024</fecha>
+    <NITcliente>399399-K</NITcliente>
+    <valor>2500.00</valor>
+  </pago>
+  <pago>
+    <codigoBanco>3</codigoBanco>
+    <fecha>25/03/2024</fecha>
+    <NITcliente>399399-K</NITcliente>
+    <valor>3500.00</valor>
+  </pago>
+  <pago>
+    <codigoBanco>1</codigoBanco>
+    <fecha>15/02/2024</fecha>
+    <NITcliente>399399-K</NITcliente>
+    <valor>2400.00</valor>
+  </pago>
+  <pago>
+    <codigoBanco>4</codigoBanco>
+    <fecha>18/02/2024</fecha>
+    <NITcliente>399399-K</NITcliente>
+    <valor>2800.00</valor>
+  </pago>
+  <pago>
+    <codigoBanco>2</codigoBanco>
+    <fecha>10/01/2024</fecha>
+    <NITcliente>399399-K</NITcliente>
+    <valor>2000.00</valor>
+  </pago>
+  <pago>
+    <codigoBanco>3</codigoBanco>
+    <fecha>12/01/2024</fecha>
+    <NITcliente>399399-K</NITcliente>
+    <valor>3000.00</valor>
   </pago>
 </pagos>

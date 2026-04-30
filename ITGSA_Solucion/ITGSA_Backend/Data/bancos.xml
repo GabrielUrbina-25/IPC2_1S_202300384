@@ -8,4 +8,12 @@
     <codigo>2</codigo>
     <nombre>GyT</nombre>
   </banco>
+  <banco>
+    <codigo>3</codigo>
+    <nombre>BanRural</nombre>
+  </banco>
+  <banco>
+    <codigo>4</codigo>
+    <nombre>BAM</nombre>
+  </banco>
 </bancos>

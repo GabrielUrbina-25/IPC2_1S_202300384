@@ -1,0 +1,115 @@
+﻿@page
+@model IngresosModel
+@{
+    ViewData["Title"] = "Ingresos por Banco";
+}
+
+<h2>Consultar Ingresos por Banco</h2>
+
+<form method="post">
+    <div class="row g-2 mb-3">
+        <div class="col-md-4">
+            <select asp-for="Mes" class="form-select">
+                <option value="1">Enero</option>
+                <option value="2">Febrero</option>
+                <option value="3">Marzo</option>
+                <option value="4">Abril</option>
+                <option value="5">Mayo</option>
+                <option value="6">Junio</option>
+                <option value="7">Julio</option>
+                <option value="8">Agosto</option>
+                <option value="9">Septiembre</option>
+                <option value="10">Octubre</option>
+                <option value="11">Noviembre</option>
+                <option value="12">Diciembre</option>
+            </select>
+        </div>
+        <div class="col-md-4">
+            <input asp-for="Anio" class="form-control" placeholder="Año (ej: 2024)" value="2024" />
+        </div>
+        <div class="col-md-4">
+            <button type="submit" class="btn btn-primary w-100">Generar Gráfica</button>
+        </div>
+    </div>
+</form>
+
+@if (Model.Meses.Count > 0)
+{
+    <h4 class="mt-4">Mes elegido: @Model.NombreMes/@Model.Anio (últimos 3 meses descendentes)</h4>
+
+    <div class="card mb-4">
+        <div class="card-body">
+            <canvas id="graficaIngresos" height="100"></canvas>
+        </div>
+    </div>
+
+    <form method="post" asp-page-handler="Pdf">
+        <input type="hidden" asp-for="Mes" />
+        <input type="hidden" asp-for="Anio" />
+        <button type="submit" class="btn btn-danger mb-4">📄 Descargar PDF</button>
+    </form>
+
+    <div class="row">
+        @foreach (var m in Model.Meses)
+        {
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <div class="card-header bg-primary text-white">
+                        @m.NombreMes/@m.Anio
+                    </div>
+                    <div class="card-body p-0">
+                        <table class="table table-sm mb-0">
+                            <thead>
+                                <tr><th>Banco</th><th>Total (Q)</th></tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var b in m.Bancos)
+                                {
+                                    <tr>
+                                        <td>@b.Nombre</td>
+                                        <td>@b.Total.ToString("F2")</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+    const ctx = document.getElementById('graficaIngresos').getContext('2d');
+    const bancos = @Html.Raw(Json.Serialize(Model.BancosLabels));
+    const mesesData = @Html.Raw(Json.Serialize(Model.Meses.Select(m => new { 
+        nombre = m.NombreMes, 
+        valores = m.Bancos.Select(b => b.Total).ToList() 
+    }).ToList()));
+
+    const colores = ['#4472C4', '#ED7D31', '#A5A5A5', '#FFC000', '#5B9BD5', '#70AD47'];
+
+    const datasets = mesesData.map((mes, index) => ({
+        label: mes.nombre,
+        data: mes.valores,
+        backgroundColor: colores[index % colores.length]
+    }));
+
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: bancos,
+            datasets: datasets
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: { display: true, text: 'Ingresos por Banco (Miles de Quetzales)' }
+            },
+            scales: {
+                y: { beginAtZero: true, title: { display: true, text: 'Miles de Quetzales' } }
+            }
+        }
+    });
+</script>
+}
